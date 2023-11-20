@@ -1,0 +1,247 @@
+C:\Users\meeran\source\repos\IdentityServerEFCore\OauthServer\bin\Debug\net7.0\appsettings.json
+C:\Users\meeran\source\repos\IdentityServerEFCore\OauthServer\bin\Debug\net7.0\OauthServer.staticwebassets.runtime.json
+C:\Users\meeran\source\repos\IdentityServerEFCore\OauthServer\bin\Debug\net7.0\OauthServer.exe
+C:\Users\meeran\source\repos\IdentityServerEFCore\OauthServer\bin\Debug\net7.0\OauthServer.deps.json
+C:\Users\meeran\source\repos\IdentityServerEFCore\OauthServer\bin\Debug\net7.0\OauthServer.runtimeconfig.json
+C:\Users\meeran\source\repos\IdentityServerEFCore\OauthServer\bin\Debug\net7.0\OauthServer.dll
+C:\Users\meeran\source\repos\IdentityServerEFCore\OauthServer\bin\Debug\net7.0\OauthServer.pdb
+C:\Users\meeran\source\repos\IdentityServerEFCore\OauthServer\obj\Debug\net7.0\OauthServer.csproj.AssemblyReference.cache
+C:\Users\meeran\source\repos\IdentityServerEFCore\OauthServer\obj\Debug\net7.0\OauthServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\meeran\source\repos\IdentityServerEFCore\OauthServer\obj\Debug\net7.0\OauthServer.AssemblyInfoInputs.cache
+C:\Users\meeran\source\repos\IdentityServerEFCore\OauthServer\obj\Debug\net7.0\OauthServer.AssemblyInfo.cs
+C:\Users\meeran\source\repos\IdentityServerEFCore\OauthServer\obj\Debug\net7.0\OauthServer.csproj.CoreCompileInputs.cache
+C:\Users\meeran\source\repos\IdentityServerEFCore\OauthServer\obj\Debug\net7.0\OauthServer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\meeran\source\repos\IdentityServerEFCore\OauthServer\obj\Debug\net7.0\staticwebassets\msbuild.OauthServer.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\meeran\source\repos\IdentityServerEFCore\OauthServer\obj\Debug\net7.0\staticwebassets\msbuild.build.OauthServer.props
+C:\Users\meeran\source\repos\IdentityServerEFCore\OauthServer\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.OauthServer.props
+C:\Users\meeran\source\repos\IdentityServerEFCore\OauthServer\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.OauthServer.props
+C:\Users\meeran\source\repos\IdentityServerEFCore\OauthServer\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\meeran\source\repos\IdentityServerEFCore\OauthServer\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\meeran\source\repos\IdentityServerEFCore\OauthServer\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\meeran\source\repos\IdentityServerEFCore\OauthServer\obj\Debug\net7.0\scopedcss\bundle\OauthServer.styles.css
+C:\Users\meeran\source\repos\IdentityServerEFCore\OauthServer\obj\Debug\net7.0\OauthServer.dll
+C:\Users\meeran\source\repos\IdentityServerEFCore\OauthServer\obj\Debug\net7.0\refint\OauthServer.dll
+C:\Users\meeran\source\repos\IdentityServerEFCore\OauthServer\obj\Debug\net7.0\OauthServer.pdb
+C:\Users\meeran\source\repos\IdentityServerEFCore\OauthServer\obj\Debug\net7.0\OauthServer.genruntimeconfig.cache
+C:\Users\meeran\source\repos\IdentityServerEFCore\OauthServer\obj\Debug\net7.0\ref\OauthServer.dll
+C:\Users\meeran\source\repos\IdentityServerEFCore\OauthServer\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\meeran\source\repos\IdentityServerEFCore\OauthServer\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\meeran\source\repos\IdentityServerEFCore\OauthServer\bin\Debug\net7.0\Humanizer.dll
+C:\Users\meeran\source\repos\IdentityServerEFCore\OauthServer\bin\Debug\net7.0\IdentityModel.dll
+C:\Users\meeran\source\repos\IdentityServerEFCore\OauthServer\bin\Debug\net7.0\IdentityServer4.dll
+C:\Users\meeran\source\repos\IdentityServerEFCore\OauthServer\bin\Debug\net7.0\IdentityServer4.Storage.dll
+C:\Users\meeran\source\repos\IdentityServerEFCore\OauthServer\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\meeran\source\repos\IdentityServerEFCore\OauthServer\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\meeran\source\repos\IdentityServerEFCore\OauthServer\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\meeran\source\repos\IdentityServerEFCore\OauthServer\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\meeran\source\repos\IdentityServerEFCore\OauthServer\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\meeran\source\repos\IdentityServerEFCore\OauthServer\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\meeran\source\repos\IdentityServerEFCore\OauthServer\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\meeran\source\repos\IdentityServerEFCore\OauthServer\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\meeran\source\repos\IdentityServerEFCore\OauthServer\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\meeran\source\repos\IdentityServerEFCore\OauthServer\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\meeran\source\repos\IdentityServerEFCore\OauthServer\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\meeran\source\repos\IdentityServerEFCore\OauthServer\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\meeran\source\repos\IdentityServerEFCore\OauthServer\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\meeran\source\repos\IdentityServerEFCore\OauthServer\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\meeran\source\repos\IdentityServerEFCore\OauthServer\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\meeran\source\repos\IdentityServerEFCore\OauthServer\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\meeran\source\repos\IdentityServerEFCore\OauthServer\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\meeran\source\repos\IdentityServerEFCore\OauthServer\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\meeran\source\repos\IdentityServerEFCore\OauthServer\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\meeran\source\repos\IdentityServerEFCore\OauthServer\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\meeran\source\repos\IdentityServerEFCore\OauthServer\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\meeran\source\repos\IdentityServerEFCore\OauthServer\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\meeran\source\repos\IdentityServerEFCore\OauthServer\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\meeran\source\repos\IdentityServerEFCore\OauthServer\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\meeran\source\repos\IdentityServerEFCore\OauthServer\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\meeran\source\repos\IdentityServerEFCore\OauthServer\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\meeran\source\repos\IdentityServerEFCore\OauthServer\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\meeran\source\repos\IdentityServerEFCore\OauthServer\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\meeran\source\repos\IdentityServerEFCore\OauthServer\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\meeran\source\repos\IdentityServerEFCore\OauthServer\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\meeran\source\repos\IdentityServerEFCore\OauthServer\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\meeran\source\repos\IdentityServerEFCore\OauthServer\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\meeran\source\repos\IdentityServerEFCore\OauthServer\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\meeran\source\repos\IdentityServerEFCore\OauthServer\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\meeran\source\repos\IdentityServerEFCore\OauthServer\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\meeran\source\repos\IdentityServerEFCore\OauthServer\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\meeran\source\repos\IdentityServerEFCore\OauthServer\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\meeran\source\repos\IdentityServerEFCore\OauthServer\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\meeran\source\repos\IdentityServerEFCore\OauthServer\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\meeran\source\repos\IdentityServerEFCore\OauthServer\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\meeran\source\repos\IdentityServerEFCore\OauthServer\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\meeran\source\repos\IdentityServerEFCore\OauthServer\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\meeran\source\repos\IdentityServerEFCore\OauthServer\obj\Debug\net7.0\OauthServer.csproj.CopyComplete
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore ResorceOwnerPassword\OauthServer\bin\Debug\net7.0\appsettings.json
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore ResorceOwnerPassword\OauthServer\bin\Debug\net7.0\OauthServer.staticwebassets.runtime.json
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore ResorceOwnerPassword\OauthServer\bin\Debug\net7.0\OauthServer.exe
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore ResorceOwnerPassword\OauthServer\bin\Debug\net7.0\OauthServer.deps.json
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore ResorceOwnerPassword\OauthServer\bin\Debug\net7.0\OauthServer.runtimeconfig.json
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore ResorceOwnerPassword\OauthServer\bin\Debug\net7.0\OauthServer.dll
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore ResorceOwnerPassword\OauthServer\bin\Debug\net7.0\OauthServer.pdb
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore ResorceOwnerPassword\OauthServer\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore ResorceOwnerPassword\OauthServer\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore ResorceOwnerPassword\OauthServer\bin\Debug\net7.0\Humanizer.dll
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore ResorceOwnerPassword\OauthServer\bin\Debug\net7.0\IdentityModel.dll
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore ResorceOwnerPassword\OauthServer\bin\Debug\net7.0\IdentityServer4.dll
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore ResorceOwnerPassword\OauthServer\bin\Debug\net7.0\IdentityServer4.Storage.dll
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore ResorceOwnerPassword\OauthServer\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore ResorceOwnerPassword\OauthServer\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore ResorceOwnerPassword\OauthServer\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore ResorceOwnerPassword\OauthServer\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore ResorceOwnerPassword\OauthServer\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore ResorceOwnerPassword\OauthServer\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore ResorceOwnerPassword\OauthServer\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore ResorceOwnerPassword\OauthServer\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore ResorceOwnerPassword\OauthServer\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore ResorceOwnerPassword\OauthServer\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore ResorceOwnerPassword\OauthServer\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore ResorceOwnerPassword\OauthServer\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore ResorceOwnerPassword\OauthServer\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore ResorceOwnerPassword\OauthServer\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore ResorceOwnerPassword\OauthServer\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore ResorceOwnerPassword\OauthServer\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore ResorceOwnerPassword\OauthServer\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore ResorceOwnerPassword\OauthServer\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore ResorceOwnerPassword\OauthServer\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore ResorceOwnerPassword\OauthServer\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore ResorceOwnerPassword\OauthServer\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore ResorceOwnerPassword\OauthServer\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore ResorceOwnerPassword\OauthServer\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore ResorceOwnerPassword\OauthServer\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore ResorceOwnerPassword\OauthServer\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore ResorceOwnerPassword\OauthServer\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore ResorceOwnerPassword\OauthServer\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore ResorceOwnerPassword\OauthServer\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore ResorceOwnerPassword\OauthServer\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore ResorceOwnerPassword\OauthServer\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore ResorceOwnerPassword\OauthServer\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore ResorceOwnerPassword\OauthServer\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore ResorceOwnerPassword\OauthServer\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore ResorceOwnerPassword\OauthServer\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore ResorceOwnerPassword\OauthServer\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore ResorceOwnerPassword\OauthServer\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore ResorceOwnerPassword\OauthServer\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore ResorceOwnerPassword\OauthServer\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore ResorceOwnerPassword\OauthServer\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore ResorceOwnerPassword\OauthServer\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore ResorceOwnerPassword\OauthServer\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore ResorceOwnerPassword\OauthServer\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore ResorceOwnerPassword\OauthServer\obj\Debug\net7.0\OauthServer.csproj.AssemblyReference.cache
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore ResorceOwnerPassword\OauthServer\obj\Debug\net7.0\OauthServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore ResorceOwnerPassword\OauthServer\obj\Debug\net7.0\OauthServer.AssemblyInfoInputs.cache
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore ResorceOwnerPassword\OauthServer\obj\Debug\net7.0\OauthServer.AssemblyInfo.cs
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore ResorceOwnerPassword\OauthServer\obj\Debug\net7.0\OauthServer.csproj.CoreCompileInputs.cache
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore ResorceOwnerPassword\OauthServer\obj\Debug\net7.0\OauthServer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore ResorceOwnerPassword\OauthServer\obj\Debug\net7.0\staticwebassets\msbuild.OauthServer.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore ResorceOwnerPassword\OauthServer\obj\Debug\net7.0\staticwebassets\msbuild.build.OauthServer.props
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore ResorceOwnerPassword\OauthServer\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.OauthServer.props
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore ResorceOwnerPassword\OauthServer\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.OauthServer.props
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore ResorceOwnerPassword\OauthServer\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore ResorceOwnerPassword\OauthServer\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore ResorceOwnerPassword\OauthServer\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore ResorceOwnerPassword\OauthServer\obj\Debug\net7.0\scopedcss\bundle\OauthServer.styles.css
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore ResorceOwnerPassword\OauthServer\obj\Debug\net7.0\OauthServer.csproj.CopyComplete
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore ResorceOwnerPassword\OauthServer\obj\Debug\net7.0\OauthServer.dll
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore ResorceOwnerPassword\OauthServer\obj\Debug\net7.0\refint\OauthServer.dll
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore ResorceOwnerPassword\OauthServer\obj\Debug\net7.0\OauthServer.pdb
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore ResorceOwnerPassword\OauthServer\obj\Debug\net7.0\OauthServer.genruntimeconfig.cache
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore ResorceOwnerPassword\OauthServer\obj\Debug\net7.0\ref\OauthServer.dll
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore ResorceOwnerPassword\OauthServer\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore ResorceOwnerPassword\OauthServer\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore ResorceOwnerPassword\OauthServer\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore ResorceOwnerPassword\OauthServer\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore ResorceOwnerPassword\OauthServer\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore ResorceOwnerPassword\OauthServer\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore ResorceOwnerPassword\OauthServer\obj\Debug\net7.0\OauthServer.RazorAssemblyInfo.cache
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore ResorceOwnerPassword\OauthServer\obj\Debug\net7.0\OauthServer.RazorAssemblyInfo.cs
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore ResorceOwnerPassword\OauthServer\bin\Debug\net7.0\IdentityServer4.AspNetIdentity.dll
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore ResorceOwnerPassword\OauthServer\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.Facebook.dll
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore ResorceOwnerPassword\OauthServer\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.Google.dll
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore Oauth ResorceOwnerPassword\OauthServer\bin\Debug\net7.0\appsettings.json
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore Oauth ResorceOwnerPassword\OauthServer\bin\Debug\net7.0\OauthServer.staticwebassets.runtime.json
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore Oauth ResorceOwnerPassword\OauthServer\bin\Debug\net7.0\OauthServer.exe
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore Oauth ResorceOwnerPassword\OauthServer\bin\Debug\net7.0\OauthServer.deps.json
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore Oauth ResorceOwnerPassword\OauthServer\bin\Debug\net7.0\OauthServer.runtimeconfig.json
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore Oauth ResorceOwnerPassword\OauthServer\bin\Debug\net7.0\OauthServer.dll
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore Oauth ResorceOwnerPassword\OauthServer\bin\Debug\net7.0\OauthServer.pdb
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore Oauth ResorceOwnerPassword\OauthServer\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore Oauth ResorceOwnerPassword\OauthServer\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore Oauth ResorceOwnerPassword\OauthServer\bin\Debug\net7.0\Humanizer.dll
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore Oauth ResorceOwnerPassword\OauthServer\bin\Debug\net7.0\IdentityModel.dll
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore Oauth ResorceOwnerPassword\OauthServer\bin\Debug\net7.0\IdentityServer4.dll
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore Oauth ResorceOwnerPassword\OauthServer\bin\Debug\net7.0\IdentityServer4.AspNetIdentity.dll
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore Oauth ResorceOwnerPassword\OauthServer\bin\Debug\net7.0\IdentityServer4.Storage.dll
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore Oauth ResorceOwnerPassword\OauthServer\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.Facebook.dll
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore Oauth ResorceOwnerPassword\OauthServer\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.Google.dll
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore Oauth ResorceOwnerPassword\OauthServer\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore Oauth ResorceOwnerPassword\OauthServer\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore Oauth ResorceOwnerPassword\OauthServer\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore Oauth ResorceOwnerPassword\OauthServer\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore Oauth ResorceOwnerPassword\OauthServer\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore Oauth ResorceOwnerPassword\OauthServer\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore Oauth ResorceOwnerPassword\OauthServer\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore Oauth ResorceOwnerPassword\OauthServer\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore Oauth ResorceOwnerPassword\OauthServer\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore Oauth ResorceOwnerPassword\OauthServer\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore Oauth ResorceOwnerPassword\OauthServer\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore Oauth ResorceOwnerPassword\OauthServer\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore Oauth ResorceOwnerPassword\OauthServer\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore Oauth ResorceOwnerPassword\OauthServer\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore Oauth ResorceOwnerPassword\OauthServer\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore Oauth ResorceOwnerPassword\OauthServer\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore Oauth ResorceOwnerPassword\OauthServer\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore Oauth ResorceOwnerPassword\OauthServer\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore Oauth ResorceOwnerPassword\OauthServer\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore Oauth ResorceOwnerPassword\OauthServer\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore Oauth ResorceOwnerPassword\OauthServer\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore Oauth ResorceOwnerPassword\OauthServer\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore Oauth ResorceOwnerPassword\OauthServer\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore Oauth ResorceOwnerPassword\OauthServer\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore Oauth ResorceOwnerPassword\OauthServer\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore Oauth ResorceOwnerPassword\OauthServer\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore Oauth ResorceOwnerPassword\OauthServer\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore Oauth ResorceOwnerPassword\OauthServer\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore Oauth ResorceOwnerPassword\OauthServer\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore Oauth ResorceOwnerPassword\OauthServer\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore Oauth ResorceOwnerPassword\OauthServer\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore Oauth ResorceOwnerPassword\OauthServer\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore Oauth ResorceOwnerPassword\OauthServer\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore Oauth ResorceOwnerPassword\OauthServer\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore Oauth ResorceOwnerPassword\OauthServer\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore Oauth ResorceOwnerPassword\OauthServer\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore Oauth ResorceOwnerPassword\OauthServer\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore Oauth ResorceOwnerPassword\OauthServer\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore Oauth ResorceOwnerPassword\OauthServer\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore Oauth ResorceOwnerPassword\OauthServer\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore Oauth ResorceOwnerPassword\OauthServer\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore Oauth ResorceOwnerPassword\OauthServer\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore Oauth ResorceOwnerPassword\OauthServer\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore Oauth ResorceOwnerPassword\OauthServer\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore Oauth ResorceOwnerPassword\OauthServer\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore Oauth ResorceOwnerPassword\OauthServer\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore Oauth ResorceOwnerPassword\OauthServer\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore Oauth ResorceOwnerPassword\OauthServer\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore Oauth ResorceOwnerPassword\OauthServer\obj\Debug\net7.0\OauthServer.csproj.AssemblyReference.cache
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore Oauth ResorceOwnerPassword\OauthServer\obj\Debug\net7.0\OauthServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore Oauth ResorceOwnerPassword\OauthServer\obj\Debug\net7.0\OauthServer.AssemblyInfoInputs.cache
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore Oauth ResorceOwnerPassword\OauthServer\obj\Debug\net7.0\OauthServer.AssemblyInfo.cs
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore Oauth ResorceOwnerPassword\OauthServer\obj\Debug\net7.0\OauthServer.csproj.CoreCompileInputs.cache
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore Oauth ResorceOwnerPassword\OauthServer\obj\Debug\net7.0\OauthServer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore Oauth ResorceOwnerPassword\OauthServer\obj\Debug\net7.0\OauthServer.RazorAssemblyInfo.cache
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore Oauth ResorceOwnerPassword\OauthServer\obj\Debug\net7.0\OauthServer.RazorAssemblyInfo.cs
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore Oauth ResorceOwnerPassword\OauthServer\obj\Debug\net7.0\staticwebassets\msbuild.OauthServer.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore Oauth ResorceOwnerPassword\OauthServer\obj\Debug\net7.0\staticwebassets\msbuild.build.OauthServer.props
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore Oauth ResorceOwnerPassword\OauthServer\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.OauthServer.props
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore Oauth ResorceOwnerPassword\OauthServer\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.OauthServer.props
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore Oauth ResorceOwnerPassword\OauthServer\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore Oauth ResorceOwnerPassword\OauthServer\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore Oauth ResorceOwnerPassword\OauthServer\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore Oauth ResorceOwnerPassword\OauthServer\obj\Debug\net7.0\scopedcss\bundle\OauthServer.styles.css
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore Oauth ResorceOwnerPassword\OauthServer\obj\Debug\net7.0\OauthServer.csproj.CopyComplete
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore Oauth ResorceOwnerPassword\OauthServer\obj\Debug\net7.0\OauthServer.dll
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore Oauth ResorceOwnerPassword\OauthServer\obj\Debug\net7.0\refint\OauthServer.dll
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore Oauth ResorceOwnerPassword\OauthServer\obj\Debug\net7.0\OauthServer.pdb
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore Oauth ResorceOwnerPassword\OauthServer\obj\Debug\net7.0\OauthServer.genruntimeconfig.cache
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore Oauth ResorceOwnerPassword\OauthServer\obj\Debug\net7.0\ref\OauthServer.dll

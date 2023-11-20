@@ -1,0 +1,29 @@
+﻿@model OauthServer.Models.LoginViewModel
+
+<form asp-controller="Auth" asp-action="ExternalLogin" method="post" asp-route-returnUrl ="@Model.ReturnUrl">
+    @foreach(var provider in Model.ExternalProviders)
+    {
+        <button 
+            name ="provider"
+            type="submit"
+            value="@provider.Name">
+            @provider.Name
+        </button>
+    }
+</form>
+
+
+
+<form asp-controller="Auth" asp-action="Login" method="post">
+    <input type="hidden" asp-for="ReturnUrl"/>
+    <div>
+    <label>Name</label>
+    <input asp-for="UserName" />
+    </div>
+    <div>
+    <label>Password</label>
+    <input asp-for="Password" />
+    </div>
+    <button type="submit">SignIn</button>
+
+</form>

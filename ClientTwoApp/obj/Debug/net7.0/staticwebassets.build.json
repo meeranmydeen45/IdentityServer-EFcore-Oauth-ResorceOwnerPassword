@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "n6FW8NK+0RdWcQDg+//W0kQDtuQBHijxzir6R4Hh4kM=",
+  "Source": "ClientTwoApp",
+  "BasePath": "_content/ClientTwoApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,108 @@
+C:\Users\meeran\source\repos\IdentityServerEFCore\ClientAppOne\bin\Debug\net7.0\appsettings.json
+C:\Users\meeran\source\repos\IdentityServerEFCore\ClientAppOne\bin\Debug\net7.0\ClientAppOne.exe
+C:\Users\meeran\source\repos\IdentityServerEFCore\ClientAppOne\bin\Debug\net7.0\ClientAppOne.deps.json
+C:\Users\meeran\source\repos\IdentityServerEFCore\ClientAppOne\bin\Debug\net7.0\ClientAppOne.runtimeconfig.json
+C:\Users\meeran\source\repos\IdentityServerEFCore\ClientAppOne\bin\Debug\net7.0\ClientAppOne.dll
+C:\Users\meeran\source\repos\IdentityServerEFCore\ClientAppOne\bin\Debug\net7.0\ClientAppOne.pdb
+C:\Users\meeran\source\repos\IdentityServerEFCore\ClientAppOne\bin\Debug\net7.0\IdentityModel.dll
+C:\Users\meeran\source\repos\IdentityServerEFCore\ClientAppOne\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\meeran\source\repos\IdentityServerEFCore\ClientAppOne\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\meeran\source\repos\IdentityServerEFCore\ClientAppOne\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\meeran\source\repos\IdentityServerEFCore\ClientAppOne\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\meeran\source\repos\IdentityServerEFCore\ClientAppOne\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\meeran\source\repos\IdentityServerEFCore\ClientAppOne\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\meeran\source\repos\IdentityServerEFCore\ClientAppOne\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\meeran\source\repos\IdentityServerEFCore\ClientAppOne\obj\Debug\net7.0\ClientAppOne.csproj.AssemblyReference.cache
+C:\Users\meeran\source\repos\IdentityServerEFCore\ClientAppOne\obj\Debug\net7.0\ClientAppOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\meeran\source\repos\IdentityServerEFCore\ClientAppOne\obj\Debug\net7.0\ClientAppOne.AssemblyInfoInputs.cache
+C:\Users\meeran\source\repos\IdentityServerEFCore\ClientAppOne\obj\Debug\net7.0\ClientAppOne.AssemblyInfo.cs
+C:\Users\meeran\source\repos\IdentityServerEFCore\ClientAppOne\obj\Debug\net7.0\ClientAppOne.csproj.CoreCompileInputs.cache
+C:\Users\meeran\source\repos\IdentityServerEFCore\ClientAppOne\obj\Debug\net7.0\ClientAppOne.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\meeran\source\repos\IdentityServerEFCore\ClientAppOne\obj\Debug\net7.0\staticwebassets\msbuild.ClientAppOne.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\meeran\source\repos\IdentityServerEFCore\ClientAppOne\obj\Debug\net7.0\staticwebassets\msbuild.build.ClientAppOne.props
+C:\Users\meeran\source\repos\IdentityServerEFCore\ClientAppOne\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ClientAppOne.props
+C:\Users\meeran\source\repos\IdentityServerEFCore\ClientAppOne\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ClientAppOne.props
+C:\Users\meeran\source\repos\IdentityServerEFCore\ClientAppOne\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\meeran\source\repos\IdentityServerEFCore\ClientAppOne\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\meeran\source\repos\IdentityServerEFCore\ClientAppOne\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\meeran\source\repos\IdentityServerEFCore\ClientAppOne\obj\Debug\net7.0\scopedcss\bundle\ClientAppOne.styles.css
+C:\Users\meeran\source\repos\IdentityServerEFCore\ClientAppOne\obj\Debug\net7.0\ClientAppOne.csproj.CopyComplete
+C:\Users\meeran\source\repos\IdentityServerEFCore\ClientAppOne\obj\Debug\net7.0\ClientAppOne.dll
+C:\Users\meeran\source\repos\IdentityServerEFCore\ClientAppOne\obj\Debug\net7.0\refint\ClientAppOne.dll
+C:\Users\meeran\source\repos\IdentityServerEFCore\ClientAppOne\obj\Debug\net7.0\ClientAppOne.pdb
+C:\Users\meeran\source\repos\IdentityServerEFCore\ClientAppOne\obj\Debug\net7.0\ClientAppOne.genruntimeconfig.cache
+C:\Users\meeran\source\repos\IdentityServerEFCore\ClientAppOne\obj\Debug\net7.0\ref\ClientAppOne.dll
+C:\Users\meeran\source\repos\IdentityServerEFCore\ClientAppOne\bin\Debug\net7.0\IdentityServer4.Storage.dll
+C:\Users\meeran\source\repos\IdentityServerEFCore\ClientAppOne\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore ResorceOwnerPassword\ClientAppOne\bin\Debug\net7.0\appsettings.json
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore ResorceOwnerPassword\ClientAppOne\bin\Debug\net7.0\ClientAppOne.exe
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore ResorceOwnerPassword\ClientAppOne\bin\Debug\net7.0\ClientAppOne.deps.json
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore ResorceOwnerPassword\ClientAppOne\bin\Debug\net7.0\ClientAppOne.runtimeconfig.json
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore ResorceOwnerPassword\ClientAppOne\bin\Debug\net7.0\ClientAppOne.dll
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore ResorceOwnerPassword\ClientAppOne\bin\Debug\net7.0\ClientAppOne.pdb
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore ResorceOwnerPassword\ClientAppOne\bin\Debug\net7.0\IdentityModel.dll
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore ResorceOwnerPassword\ClientAppOne\bin\Debug\net7.0\IdentityServer4.Storage.dll
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore ResorceOwnerPassword\ClientAppOne\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore ResorceOwnerPassword\ClientAppOne\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore ResorceOwnerPassword\ClientAppOne\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore ResorceOwnerPassword\ClientAppOne\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore ResorceOwnerPassword\ClientAppOne\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore ResorceOwnerPassword\ClientAppOne\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore ResorceOwnerPassword\ClientAppOne\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore ResorceOwnerPassword\ClientAppOne\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore ResorceOwnerPassword\ClientAppOne\obj\Debug\net7.0\ClientAppOne.csproj.AssemblyReference.cache
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore ResorceOwnerPassword\ClientAppOne\obj\Debug\net7.0\ClientAppOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore ResorceOwnerPassword\ClientAppOne\obj\Debug\net7.0\ClientAppOne.AssemblyInfoInputs.cache
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore ResorceOwnerPassword\ClientAppOne\obj\Debug\net7.0\ClientAppOne.AssemblyInfo.cs
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore ResorceOwnerPassword\ClientAppOne\obj\Debug\net7.0\ClientAppOne.csproj.CoreCompileInputs.cache
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore ResorceOwnerPassword\ClientAppOne\obj\Debug\net7.0\ClientAppOne.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore ResorceOwnerPassword\ClientAppOne\obj\Debug\net7.0\staticwebassets\msbuild.ClientAppOne.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore ResorceOwnerPassword\ClientAppOne\obj\Debug\net7.0\staticwebassets\msbuild.build.ClientAppOne.props
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore ResorceOwnerPassword\ClientAppOne\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ClientAppOne.props
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore ResorceOwnerPassword\ClientAppOne\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ClientAppOne.props
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore ResorceOwnerPassword\ClientAppOne\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore ResorceOwnerPassword\ClientAppOne\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore ResorceOwnerPassword\ClientAppOne\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore ResorceOwnerPassword\ClientAppOne\obj\Debug\net7.0\scopedcss\bundle\ClientAppOne.styles.css
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore ResorceOwnerPassword\ClientAppOne\obj\Debug\net7.0\ClientAppOne.csproj.CopyComplete
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore ResorceOwnerPassword\ClientAppOne\obj\Debug\net7.0\ClientAppOne.dll
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore ResorceOwnerPassword\ClientAppOne\obj\Debug\net7.0\refint\ClientAppOne.dll
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore ResorceOwnerPassword\ClientAppOne\obj\Debug\net7.0\ClientAppOne.pdb
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore ResorceOwnerPassword\ClientAppOne\obj\Debug\net7.0\ClientAppOne.genruntimeconfig.cache
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore ResorceOwnerPassword\ClientAppOne\obj\Debug\net7.0\ref\ClientAppOne.dll
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore Oauth ResorceOwnerPassword\ClientAppOne\bin\Debug\net7.0\appsettings.json
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore Oauth ResorceOwnerPassword\ClientAppOne\bin\Debug\net7.0\ClientAppOne.exe
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore Oauth ResorceOwnerPassword\ClientAppOne\bin\Debug\net7.0\ClientAppOne.deps.json
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore Oauth ResorceOwnerPassword\ClientAppOne\bin\Debug\net7.0\ClientAppOne.runtimeconfig.json
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore Oauth ResorceOwnerPassword\ClientAppOne\bin\Debug\net7.0\ClientAppOne.dll
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore Oauth ResorceOwnerPassword\ClientAppOne\bin\Debug\net7.0\ClientAppOne.pdb
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore Oauth ResorceOwnerPassword\ClientAppOne\bin\Debug\net7.0\IdentityModel.dll
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore Oauth ResorceOwnerPassword\ClientAppOne\bin\Debug\net7.0\IdentityServer4.Storage.dll
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore Oauth ResorceOwnerPassword\ClientAppOne\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore Oauth ResorceOwnerPassword\ClientAppOne\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore Oauth ResorceOwnerPassword\ClientAppOne\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore Oauth ResorceOwnerPassword\ClientAppOne\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore Oauth ResorceOwnerPassword\ClientAppOne\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore Oauth ResorceOwnerPassword\ClientAppOne\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore Oauth ResorceOwnerPassword\ClientAppOne\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore Oauth ResorceOwnerPassword\ClientAppOne\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore Oauth ResorceOwnerPassword\ClientAppOne\obj\Debug\net7.0\ClientAppOne.csproj.AssemblyReference.cache
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore Oauth ResorceOwnerPassword\ClientAppOne\obj\Debug\net7.0\ClientAppOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore Oauth ResorceOwnerPassword\ClientAppOne\obj\Debug\net7.0\ClientAppOne.AssemblyInfoInputs.cache
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore Oauth ResorceOwnerPassword\ClientAppOne\obj\Debug\net7.0\ClientAppOne.AssemblyInfo.cs
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore Oauth ResorceOwnerPassword\ClientAppOne\obj\Debug\net7.0\ClientAppOne.csproj.CoreCompileInputs.cache
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore Oauth ResorceOwnerPassword\ClientAppOne\obj\Debug\net7.0\ClientAppOne.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore Oauth ResorceOwnerPassword\ClientAppOne\obj\Debug\net7.0\staticwebassets\msbuild.ClientAppOne.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore Oauth ResorceOwnerPassword\ClientAppOne\obj\Debug\net7.0\staticwebassets\msbuild.build.ClientAppOne.props
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore Oauth ResorceOwnerPassword\ClientAppOne\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ClientAppOne.props
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore Oauth ResorceOwnerPassword\ClientAppOne\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ClientAppOne.props
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore Oauth ResorceOwnerPassword\ClientAppOne\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore Oauth ResorceOwnerPassword\ClientAppOne\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore Oauth ResorceOwnerPassword\ClientAppOne\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore Oauth ResorceOwnerPassword\ClientAppOne\obj\Debug\net7.0\scopedcss\bundle\ClientAppOne.styles.css
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore Oauth ResorceOwnerPassword\ClientAppOne\obj\Debug\net7.0\ClientAppOne.csproj.CopyComplete
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore Oauth ResorceOwnerPassword\ClientAppOne\obj\Debug\net7.0\ClientAppOne.dll
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore Oauth ResorceOwnerPassword\ClientAppOne\obj\Debug\net7.0\refint\ClientAppOne.dll
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore Oauth ResorceOwnerPassword\ClientAppOne\obj\Debug\net7.0\ClientAppOne.pdb
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore Oauth ResorceOwnerPassword\ClientAppOne\obj\Debug\net7.0\ClientAppOne.genruntimeconfig.cache
+C:\Users\meeran\source\repos\Authentication and Authorization\IdentityServer EFcore Oauth ResorceOwnerPassword\ClientAppOne\obj\Debug\net7.0\ref\ClientAppOne.dll

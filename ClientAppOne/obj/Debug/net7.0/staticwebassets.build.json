@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Co+IaaOsUyBgyexWIo2f+6cni6ZCfbqLXMMW5qZ6KN4=",
+  "Source": "ClientAppOne",
+  "BasePath": "_content/ClientAppOne",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
